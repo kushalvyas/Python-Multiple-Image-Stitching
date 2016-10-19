@@ -1,6 +1,6 @@
 # Multiple Image stitching in Python
 
-This repository contains an implementation of multiple image stitching. 
+This repository contains an implementation of multiple image stitching. For explanation refer my blog post : [Creating a panorama using multiple images](kushalvyas.github.io/stitching.html)
 
 Requirements : 
 
