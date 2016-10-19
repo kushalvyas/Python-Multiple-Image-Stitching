@@ -37,13 +37,13 @@ To run :
 Outputs !! 
 
 <center>
-<img src="code/output/stitching/test.jpg" ><br>
+<img src="test.jpg" ><br>
 <caption>Stitching with building example</caption>
 <br><br>
-<img src="code/output/stitching/test12.jpg"><br>
+<img src="test12.jpg"><br>
 <caption>Stitching using Hill example</caption>
 <br><br>
-<img src="code/output/stitching/test1.jpg" ><br>
+<img src="test1.jpg" ><br>
 <caption>Stitching using room example</caption>
 <br>
 </center>
