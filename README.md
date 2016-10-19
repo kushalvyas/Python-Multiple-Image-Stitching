@@ -37,6 +37,12 @@ To run :
 Outputs !! 
 
 <center>
+<img src="lunchroom_ultimate.jpg" ><br>
+<caption>Stitching with building example</caption>
+<br><br>
+<img src="wd123.jpg" ><br>
+<caption>Stitching with building example</caption>
+<br><br>
 <img src="test.jpg" ><br>
 <caption>Stitching with building example</caption>
 <br><br>
