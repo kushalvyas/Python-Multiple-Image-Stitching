@@ -22,7 +22,7 @@ Project Structure :
 		|			.... and so on ... 
 
 Demo txtfile : 
-files1.txt :
+files2.txt :
 
         ../../images/1.jpg
         ../../images/2.jpg
