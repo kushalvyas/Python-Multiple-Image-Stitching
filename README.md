@@ -2,14 +2,14 @@
 
 This repository contains an implementation of multiple image stitching. For explanation refer my blog post : [Creating a panorama using multiple images](http://kushalvyas.github.io/stitching.html)
 
-Requirements : 
+### Requirements : 
 
 - Python 2.7
 - Numpy >= 1.8 
 - OpenCV 3.1.0 
 
 
-Project Structure : 
+### Project Structure : 
 	
 		|_ code -|
 		|		 |-- pano.py
@@ -29,12 +29,12 @@ files2.txt :
         ../../images/3.jpg
         ../../images/4.jpg
 
-To run : 
+### To run : 
 
     `python pano.py <txtlists/filename_.txt>`
 
 
-Outputs !! 
+## Outputs !! 
 
 <center>
 <img src="lunchroom_ultimate.jpg" ><br>
