@@ -36,3 +36,25 @@ To run :
 
 Outputs !! 
 
+<center>
+<img src="images/stitching/test.jpg" ><br>
+<caption>Stitching with building example</caption>
+<br><br>
+<img src="images/stitching/test12.jpg"><br>
+<caption>Stitching using Hill example</caption>
+<br><br>
+<img src="images/stitching/test1.jpg" ><br>
+<caption>Stitching using room example</caption>
+<br>
+</center>
+
+### Other WebSources for Images : 
+I have used a few sample images from other sources as well.
+
+Test images taken from :
+
+[2] "OpenCV Stitching example (Stitcher class, Panorama)", Study.marearts.com, 2013. [Online]. Available: http://study.marearts.com/2013/11/opencv-stitching-example-stitcher-class.html.
+
+[3] "Github daeyun Image-Stitching Test Images", 2016. [Online]. Available: https://github.com/daeyun/Image-Stitching/tree/master/img/hill. 
+
+[4] "Github tsherlock Test Images", 2016. [Online]. Available: .  https://github.com/tsherlock/panorama/
