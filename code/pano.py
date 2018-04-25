@@ -20,7 +20,7 @@ class Stitch:
 		print "Number of images : %d"%self.count
 		self.centerIdx = self.count/2 
 		print "Center index image : %d"%self.centerIdx
-		self.center_im = self.images[self.centerIdx]
+		self.center_im = self.images[int(self.centerIdx)]
 		for i in range(self.count):
 			if(i<=self.centerIdx):
 				self.left_list.append(self.images[i])
